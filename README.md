@@ -5,7 +5,7 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 
 ### 🔬 Research Based Projects
 - **🤖 Autonomous DeCentralised Multi-Drone Surveillance & Rescue** – Designed a **distributed navigation system** ensuring collision-free multi-drone movement and goal capturing.
-    - [Repository] (to-be-added) <b><i></b></i>
+    - [Repository](to-be-added) <b><i></b></i>
 - **⚡ Model Compression Techniques** – Applied **pruning, quantization, and knowledge distillation** to optimize deep learning models.
     - [Repository](https://github.com/Huraira-7/Advanced-Machine-Learning/tree/main/ATML_PA3/atml_pa3_25100314) <b><i></b></i>
 - **🛠️ Cross Architecture Knowledge Distillation** – Proposed techniques like **Self Supervised Knowledge Distillation** to improve **accuracies while distilling knowledge between different architectural combinations**.
@@ -39,8 +39,8 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 <br>  
 
 [<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<h4>hahuraira@gmail.com</h4>
-<h4>25100314@lums.edu.pk</h4>
+[gmail]: hahuraira@gmail.com
+[gmail]: 25100314@lums.edu.pk
 
 <!-- 📌 **GitHub**: [@Huraira-7](https://github.com/Huraira-7) -->
 <!-- 📌 **Email**: [hahuraira@gmail.com](mailto:hahuraira@gmail.com)   -->
