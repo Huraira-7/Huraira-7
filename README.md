@@ -39,7 +39,11 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 <br>  
 
 [<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
 [gmail]: hahuraira@gmail.com
+
+<br>  
+
 [gmail]: 25100314@lums.edu.pk
 
 <!-- 📌 **GitHub**: [@Huraira-7](https://github.com/Huraira-7) -->
