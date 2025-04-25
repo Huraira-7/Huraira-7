@@ -44,7 +44,7 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 
 <br>  
 
-[gmail]: 25100314@lums.edu.pk
+<h4>25100314@lums.edu.pk</h4>
 
 <!-- 📌 **GitHub**: [@Huraira-7](https://github.com/Huraira-7) -->
 <!-- 📌 **Email**: [hahuraira@gmail.com](mailto:hahuraira@gmail.com)   -->
