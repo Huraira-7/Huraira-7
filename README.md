@@ -36,7 +36,7 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 
 [linkedin]: http://linkedin.com/in/huraira-anwer-6b1238122
 
-<br>  
+
 
 [<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
