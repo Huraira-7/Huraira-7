@@ -13,9 +13,9 @@ I'm a passionate **Computer Science** student at **LUMS**. I love building intel
 
 ### 🔬 Development Based Projects
 - **🧠 AI Powered Learning Management System** – Built an automatic **course assignment & quiz generation and grading system** providing personalized feedback to students using **RAG**, **agentic workflows** and **LLMs** in **Nextjs** and **FAST-api** .
-    - [Repository](to-be-added) <b><i></b></i>
+    - [Repository](https://github.com/Jawamegamind/AI-Learning-Management-System) <b><i></b></i>
 - **📋 Research Paper Recommendation** – Built an end-to-end **recommendation pipeline** which utilizes **ML** and **RAG** to suggest similar research papers in a given domain based on an input prompt from the user. Deployed using  **Docker** and **Streamlit** .
-    - [Repository](to-be-added) <b><i></b></i>
+    - [Repository](https://github.com/muhmmad-ahmad-1/ai601-research-paper-recommender) <b><i></b></i>
 - **📝 AI Powered Project Management App** – Built a **collaboration app** which utilizes **LLMs** to create tasks and refine subtasks, and assign them to collaborators effectively, allowing for **communication** with project members as well through **web sockets** in **Flutter** and **Firebase** .
     - [Repository](https://github.com/Huraira-7/Idea-Enhancer) <b><i></b></i>
 - **📊E commerce website** – Built and deployed a fully responsive end-to-end **e-commerce website** with modern UI and a custom **admin panel** to update the website dynamically, additional features include **email alerts to admin and email sending to customer** functionality leveraging **MERN stack**  framework.
